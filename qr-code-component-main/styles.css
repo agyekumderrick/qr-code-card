@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    align-items: center;
+}
+
+
+.main-container{
+
+    max-width: 360px;
+    margin: 0 auto ;
+}
+
+.wrapper{
+    background-color: hsl(0, 0%, 100%);
+    padding: 14px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+
+img{
+    width: 100%;
+    border-radius: 14px;
+}
+
+.info-txt{
+    padding: 20px;
+}
+
+h2{
+    color: hsl(218, 44%, 22%);
+    padding-bottom: 15px;
+}
+
+p{
+    color: hsl(216, 15%, 48%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution {
+     font-size: 11px; text-align: center; }
+.attribution a 
+{ color: hsl(228, 45%, 44%); }
